@@ -2249,6 +2249,8 @@ h6 {
 }
 
 .blog-card__image {
+    width: 80% !important;
+    margin-left: 30px;
     position: relative;
     overflow: hidden;
     
@@ -5792,7 +5794,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .cta-one__title {
     margin: 0 0 40px;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 50px;
     font-weight: 400
 }
@@ -12842,7 +12844,7 @@ body.boxed-wrapper {
 }
 
 .program-three__item__age {
-    color: #ac1c2f
+    color: #ac1c2f;
     line-height: 1;
     display: block;
     margin: 0 0 21px;
